@@ -1,4 +1,4 @@
-# -Credit-Card-Fraud-Detection-using-GMM-Based-Synthetic-Sampling
+# Credit-Card-Fraud-Detection-using-GMM-Based-Synthetic-Sampling
 
 ## Author
 
